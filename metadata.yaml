@@ -1,0 +1,46 @@
+_repo: Princess-Mary-s-Gift-BookRelief-Fund_39592
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Mary, Princess Royal, Countess of Harewood
+    aliases:
+    - Lascelles, Mary, Princess Royal, Viscountess
+    - Victoria Alexandra Alice Mary, Princess Royal, Countess of Harewood
+    - Windsor, Victoria Alexandra Alice Mary
+    - Mary, Princess Royal, Viscountess Lascelles
+    - Lascelles, Victoria Alexandra Alice Mary
+    - Harewood, Mary, Princess Royal, Countess of
+    birthdate: 1897
+    deathdate: 1965
+    gutenberg_agent_id: '39987'
+    url: http://www.gutenberg.org/2009/agents/39987
+covers:
+- cover_type: archival
+  image_path: 39592-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39592'
+  lccn: '15001067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'English literature'
+- !lcsh 'World War, 1914-1918 -- Gift books'
+tableOfContents: A holiday in bed / J.M. Barrie -- The spy / G.A. Birmingham -- Charlie
+  the cox / Hall Caine -- Canada's word / Ralph Connor -- Bimbashi Joyce / A. Conan
+  Doyle -- The Ant-lion / J.H. Fabre -- An angel of God / Ellen Thorneycroft Fowler
+  -- A model soldier / Charles Garvice -- The land of Let'spretend / Lady Sybil Grant
+  -- Magepa the Buck / H. Rider Haggard -- True Spartan hearts / Beatrice Harraden
+  -- Big steamers / Rudyard Kipling -- A true story from camp / Bishop of London --
+  The ebony box / A.E.W. Mason -- A spell for a fairy / Alfred Noyes -- Out of the
+  jaws of death / Baroness Orczy -- What can a little chap do? / John Oxenham -- Altogether
+  different / W. Pett Ridge -- The escape / Annie S. Swan -- Fleur-de-lis / Kate Douglas
+  Wiggin.
+title: "Princess Mary's Gift Book\r\nAll profits on sale given to the Queen's \"Work\
+  \ for Women\" Fund which is acting in Conjunction with The National Relief Fund"
+url: http://www.gutenberg.org/ebooks/39592
